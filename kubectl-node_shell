@@ -135,7 +135,6 @@ overrides="$(
         "operator": "Exists"
       },
       {
-        "effect": "NoExecute",
         "operator": "Exists"
       }
     ]
